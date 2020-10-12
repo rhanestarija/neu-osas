@@ -166,6 +166,7 @@
     margin-right: 13%;
     margin-top: 20%;
     font-size: 1.7vw; 
+    height: calc(var(--vh, 1vw));
 }
 
 .section3{
